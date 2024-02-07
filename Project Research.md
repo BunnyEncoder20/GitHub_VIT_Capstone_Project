@@ -35,3 +35,21 @@
 - These are the 2 most popular ML libraries 
 - Keras is not a full Library, it is more like a nice wrapper around these libs. It provides a little more convince when working with these ML libraries.
 - Nowadays, Keras comes built in TensorFlow
+
+---
+
+## Best Performing Models in Keras Library 
+
+1. EfficientNetB7
+2. EfficientNetB6
+3. EfficientNetB5
+4. InceptionResNetV2
+5. NASNetLarge
+6. DenseNet201
+7. ResNet152V2
+8. InceptionV3
+9. DenseNet169
+10. ResNet152
+11. ResNet101V2
+12. ResNet101
+13. VGG19

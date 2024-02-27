@@ -40,16 +40,28 @@
 
 ## Best Performing Models in Keras Library 
 
-1. EfficientNetB7
-2. EfficientNetB6
-3. EfficientNetB5
-4. InceptionResNetV2
-5. NASNetLarge
-6. DenseNet201
-7. ResNet152V2
-8. InceptionV3
-9. DenseNet169
-10. ResNet152
-11. ResNet101V2
-12. ResNet101
-13. VGG19
+VGG19
+
+InceptionV3
+
+ResNet101
+
+ResNet101V2
+
+ResNet152
+
+ResNet152V2
+
+DenseNet169
+
+DenseNet201
+
+InceptionResNetV2
+
+EfficientNetB5
+
+EfficientNetB6
+
+EfficientNetB7
+
+NASNetLarge

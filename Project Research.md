@@ -38,30 +38,30 @@
 
 ---
 
-## Best Performing Models in Keras Library 
+## Best Performing Models in Keras Library (in Order of Performance)
 
-VGG19
-
-InceptionV3
-
-ResNet101
-
-ResNet101V2
-
-ResNet152
-
-ResNet152V2
-
-DenseNet169
-
-DenseNet201
-
-InceptionResNetV2
-
-EfficientNetB5
+EfficientNetB7
 
 EfficientNetB6
 
-EfficientNetB7
+EfficientNetB5
+
+DenseNet201
+
+DenseNet169
+
+InceptionResNetV2
+
+ResNet152V2
+
+ResNet152
+
+ResNet101V2
+
+ResNet101
+
+InceptionV3
+
+VGG19
 
 NASNetLarge

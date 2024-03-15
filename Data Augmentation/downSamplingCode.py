@@ -31,3 +31,20 @@ for foldername in os.listdir(input_dir):
         new_image_path = os.path.join(output_folder, filename)
         shutil.move(image_path, new_image_path)
     print("Done✔️")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
